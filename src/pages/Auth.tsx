@@ -26,7 +26,8 @@ const Auth = () => {
     // Simulate login - replace with actual auth
     setTimeout(() => {
       setIsLoading(false);
-      toast.info("Para habilitar autenticación, conecta Lovable Cloud");
+      //toast.info("Para habilitar autenticación, conecta Lovable Cloud");
+      toast.info("Falta Implementación con Base de Datos");
     }, 1000);
   };
 
@@ -43,7 +44,8 @@ const Auth = () => {
     // Simulate registration - replace with actual auth
     setTimeout(() => {
       setIsLoading(false);
-      toast.info("Para habilitar autenticación, conecta Lovable Cloud");
+      //toast.info("Para habilitar autenticación, conecta Lovable Cloud");
+      toast.info("Falta Implementación con Base de Datos");
     }, 1000);
   };
 

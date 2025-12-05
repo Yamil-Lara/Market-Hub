@@ -27,7 +27,8 @@ const Checkout = () => {
     // Simulate payment processing
     setTimeout(() => {
       setIsProcessing(false);
-      toast.info("Para procesar pagos reales, conecta Stripe a través de Lovable Cloud");
+      //toast.info("Para procesar pagos reales, conecta Stripe a través de Lovable Cloud");
+      toast.info("Falta Implementación con Base de Datos");
       clearCart();
       navigate("/");
     }, 2000);

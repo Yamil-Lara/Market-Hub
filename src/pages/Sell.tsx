@@ -57,7 +57,8 @@ const Sell = () => {
       return;
     }
 
-    toast.info("Para publicar productos, conecta Lovable Cloud para habilitar la base de datos");
+    //toast.info("Para publicar productos, conecta Lovable Cloud para habilitar la base de datos");
+    toast.info("Falta Implementación con Base de Datos");
   };
 
   return (
