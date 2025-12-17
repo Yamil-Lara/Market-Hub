@@ -115,7 +115,7 @@ http://localhost:5173
 
 ##
 
-### 4️⃣ Ejecutar el servidor de desarrollo
+### 5️⃣ Ejecutar el servidor de desarrollo
 ```
 npm run build
 ```
