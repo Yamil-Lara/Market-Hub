@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.x-purple)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.x-cyan)
-![Status](https://img.shields.io/badge/Status-Finalizado-yellow)
+![Status](https://img.shields.io/badge/Status-Finalizado-green)
 
 **MarketHub** es una plataforma de **comercio electrónico (Marketplace)** moderna, desarrollada con la plataforma _**"Lovable"**_ usando **React** y **Vite**, diseñada para permitir a los usuarios comprar y vender productos únicos de manera fácil y segura. Integra una interfaz elegante con **Shadcn UI** y gestión de estado global.
 
